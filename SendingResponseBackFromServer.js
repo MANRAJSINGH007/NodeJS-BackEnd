@@ -1,3 +1,7 @@
+
+
+// Sending response back from the server to the browser
+
 const http = require('http');
 const port = 8000;
 
